@@ -6,7 +6,7 @@ function validate(){
         message.textContent="Name tooo long ,name should carry 8 characters";
     }
     else{
-        message.textContent="Name  is valid";
+        message.textContent="Name  is valid hehe";
 
     }
 
